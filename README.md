@@ -8,4 +8,4 @@ Check the wiki [here](https://github.com/carlosverissimo3001/FEUP-LBAW-2022/wiki
 
 | **Year** | **Term**  | **Course** | **Final Grade** |
 |   ---    |    ---    |    ---     |    ---          |
-| 3rd | 1st | Bachelor in Informatics and Computing Engineering | 19 |
+| 3rd | 1st | Bachelor in Informatics and Computing Engineering | **19** |
